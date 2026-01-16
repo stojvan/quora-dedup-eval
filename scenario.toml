@@ -9,3 +9,4 @@ env = {API_KEY = "${OPENAI_API_KEY}", BASE_URL = "https://api.openai.com/v1", MO
 
 [config]
 # Add your assessment config here
+sample_size = 100
