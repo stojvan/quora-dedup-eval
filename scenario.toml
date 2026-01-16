@@ -4,8 +4,7 @@ env = { }
 
 [[participants]]
 agentbeats_id = "019bc5c4-deb9-7db3-91b9-770dd8aa3de2"
-name = "agent1"
-role = "dedup_predictor"
+name = "dedup_predictor"
 env = {API_KEY = "${OPENAI_API_KEY}", BASE_URL = "https://api.openai.com/v1", MODEL = "gpt-4.1"}
 
 [config]
