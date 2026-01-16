@@ -1,0 +1,15 @@
+{
+  "participants": {
+    "dedup_predictor": "019bc5c4-deb9-7db3-91b9-770dd8aa3de2"
+  },
+  "results": [
+    {
+      "accuracy": 0.83,
+      "precision": 0.8621,
+      "recall": 0.6579,
+      "f1_score": 0.7463,
+      "execution_time_seconds": 223.97,
+      "successful_communications": 100
+    }
+  ]
+}

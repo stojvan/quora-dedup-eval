@@ -1,0 +1,13 @@
+[green_agent]
+agentbeats_id = "019bc59a-78c7-7553-a62c-2a1e32006961"
+env = { }
+
+[[participants]]
+agentbeats_id = "019bc5c4-deb9-7db3-91b9-770dd8aa3de2"
+name = "dedup_predictor"
+env = {API_KEY = "${OPENAI_API_KEY}", BASE_URL = "https://api.openai.com/v1", MODEL = "gpt-4.1"}
+
+[config]
+# Add your assessment config here
+sample_size = 100
+random_seed = 99
