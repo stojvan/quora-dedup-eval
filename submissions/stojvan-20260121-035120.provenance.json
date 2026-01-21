@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/stojvan/quora-dedup-evaluator@sha256:8e26d69f7092e539b71688c2ac5ae834571812abd7118426b9dfefbc1583c779",
+    "dedup_predictor": "ghcr.io/stojvan/quora-dedup-agent@sha256:92d2c5948d3905d18d9186deac1f062b60e4ab1269417770b5e8511a0ff48197",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-21T03:51:20Z",
+  "github_actions": {
+    "run_url": "https://github.com/stojvan/quora-dedup-eval/actions/runs/21196482195",
+    "run_logs_url": "https://api.github.com/repos/stojvan/quora-dedup-eval/actions/runs/21196482195/logs",
+    "ref": "refs/heads/stojvan-patch-5",
+    "sha": "ac119de1e1492f2c98ecc547687cd86709b70300",
+    "repository_url": "https://github.com/stojvan/quora-dedup-eval",
+    "workflow_ref": "stojvan/quora-dedup-eval/.github/workflows/run-scenario.yml@refs/heads/stojvan-patch-5",
+    "workflow_sha": "ac119de1e1492f2c98ecc547687cd86709b70300"
+  }
+}
